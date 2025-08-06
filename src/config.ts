@@ -1,6 +1,6 @@
 export const SITE = {
   website: "https://tinygram.dev", // replace this with your deployed domain
-  author: "tinygram.dev",
+  author: "tinygram",
   profile: "https://tinygram.dev",
   desc: "tinygram.dev",
   title: "tinygram.dev",
